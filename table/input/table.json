@@ -1,0 +1,55 @@
+[
+  {
+    "type": "mainHeader",
+    "title": "MyFavorite books"
+  },
+  {
+    "type": "header",
+    "column1": "Title",
+    "column2": "Author",
+    "column3": "Year",
+    "column4": "Type"
+  },
+  {
+    "type": "row1",
+    "column1": "Wszyscy na Zanzibarze",
+    "column2": "John Brunner",
+    "column3": "1968",
+    "column4": "fantastyka, fantasy, science fiction"
+  },
+  {
+    "type": "row2",
+    "column1": "Hyperion",
+    "column2": "Dan Simmons",
+    "column3": "1989",
+    "column4": "fantastyka, fantasy, science fiction"
+  },
+  {
+    "type": "row3",
+    "column1": "Terror",
+    "column2": "Dan Simmons",
+    "column3": "2007",
+    "column4": "horror"
+  },
+  {
+    "type": "row4",
+    "column1": "451 stopni Fahrenheita",
+    "column2": "Ray Bradbury",
+    "column3": "1953",
+    "column4": "fantastyka, fantasy, science fiction"
+  },
+  {
+    "type": "row5",
+    "column1": "Holistyczna Agencja Detektywistyczna Dirka Gently’ego",
+    "column2": "Douglas Adams",
+    "column3": "1987",
+    "column4": "fantastyka, fantasy, science fiction"
+  },
+  {
+    "type": "row6",
+    "column1": "Mort",
+    "column2": "Terry Pratchett",
+    "column3": "1987",
+    "column4": "fantastyka, fantasy, science fiction"
+  }
+]

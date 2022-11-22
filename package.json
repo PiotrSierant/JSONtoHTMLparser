@@ -1,0 +1,18 @@
+{
+  "name": "01_json_to_html-parser",
+  "version": "1.0.0",
+  "description": "Moje pierwsze CLI",
+  "main": "index.js",
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "table": "nodemon index.js table",
+    "ol-list": "nodemon index.js list -lt ol",
+    "ul-list": "nodemon index.js list -lt ul"
+  },
+  "dependencies": {
+    "commander": "^5.0.0",
+    "nodemon": "^2.0.2"
+  }
+}

@@ -1,0 +1,4 @@
+exercises:
+    '01_Podstawowy template i lista gier': { max_points: 0, disabled: true }
+    02_Tablice: { max_points: 0, disabled: true }
+    '03_File watcher': { max_points: 0, disabled: true }
